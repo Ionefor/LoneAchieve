@@ -206,3 +206,5 @@ $RECYCLE.BIN/
 *.tlh
 *.tmp
 *.tmp_proj
+*.cache
+*.cache
